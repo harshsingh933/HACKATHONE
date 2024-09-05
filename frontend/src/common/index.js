@@ -1,4 +1,4 @@
-const backendDomin = "http://localhost:3001"
+const backendDomin = "https://medicode-backend.onrender.com"
 
 const SummaryApi = {
     signUP : {
